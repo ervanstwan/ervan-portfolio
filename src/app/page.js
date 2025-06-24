@@ -159,7 +159,7 @@ const portfolios = [
   {
     title: "Portfolio Website",
     description: "A personal web portfolio to showcase my experiences and projects.",
-    link: "https://github.com/ervanstwan/portfolio",
+    link: "https://github.com/ervanstwan/ervan-portfolio",
   },
   {
     title: "Monitoring Dashboard",
