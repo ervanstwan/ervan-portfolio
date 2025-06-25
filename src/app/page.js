@@ -29,6 +29,7 @@ const experiences = [
       "Monitoring with Splunk, Grafana, Prometheus and CloudWatch.",
       "Database administration (DBA) tasks including query optimization and backup management for MySQL and PostgreSQL.",
       "Supported infrastructure provisioning and maintenance to ensure system reliability and scalability.",
+      "Lead and manage 30 member of L1 and L2 team member",
     ],
   },
   {
@@ -42,6 +43,7 @@ const experiences = [
       "Build, Install and Configure Servers on Prem and Cloud",
       "Make custom script for monitoring transaction using slack bot and telegram bot",
       "Repair and maintenance hardware",
+      "Lead and manage 4 member of L1 and L2 team member",
     ],
   },
 ];
