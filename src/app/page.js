@@ -176,7 +176,7 @@ const portfolios = [
   {
     title: "DevOps GitOps Pipeline",
     description: "GitOps CI/CD with ArgoCD, Terraform, Jenkins & Node.js",
-    link: "https://github.com/ervanstwan/devops-pipeline",
+    link: "https://github.com/ervanstwan/devops-gitops-pipeline",
   },
 ];
 
