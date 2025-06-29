@@ -169,8 +169,13 @@ const portfolios = [
     link: "https://github.com/ervanstwan/monitoring-dashboard",
   },
   {
-    title: "CI/CD Automation",
-    description: "GitHub Actions and Terraform to automate infrastructure deployment.",
+    title: "Blue-Green Deployment",
+    description: "Jenkins CI + ArgoCD GitOps on EKS with SonarQube, Trivy, OWASP checks, and self-healing blue-green rollout.",
+    link: "https://github.com/ervanstwan/devops-pipeline",
+  },
+  {
+    title: "DevOps GitOps Pipeline",
+    description: "GitOps CI/CD with ArgoCD, Terraform, Jenkins & Node.js",
     link: "https://github.com/ervanstwan/devops-pipeline",
   },
 ];
