@@ -224,7 +224,7 @@ const portfolios = [
     link: "https://github.com/ervanstwan/ci-cd-jenkins-ansible-k8s",
   },
   {
-    title: "DevSecOps Disney Hotstar Clone on AWS EKS",
+    title: "🎬 DevSecOps Disney Hotstar Clone on AWS EKS",
     description: "A fully automated DevSecOps pipeline deploying a secure, scalable Hotstar-like streaming app on AWS EKS.",
     link: "https://github.com/ervanstwan/hotstar-devsecops-eks",
   },
@@ -232,6 +232,11 @@ const portfolios = [
     title: "PCI-Compliant Node.js App on AWS: DevSecOps Infra",
     description: "This project provisions a secure, PCI-DSS aligned architecture on AWS with Node.js app",
     link: "https://github.com/ervanstwan/pci-nodejs-terraform-ansible",
+  },
+  {
+    title: "🎬 Netflix Clone Deployment with Kubernetes & CI/CD",
+    description: "This project demonstrates deploying a Netflix Clone microservice application on Kubernetes, with complete CI/CD pipeline integrating",
+    link: "https://github.com/ervanstwan/netflix-k8s-cicd",
   },
 ];
 
