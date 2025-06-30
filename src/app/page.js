@@ -223,6 +223,11 @@ const portfolios = [
     description: "CI/CD Pipeline with Jenkins, Ansible, Docker, Kubernetes",
     link: "https://github.com/ervanstwan/ci-cd-jenkins-ansible-k8s",
   },
+  {
+    title: "DevSecOps Hotstar Clone on AWS EKS",
+    description: "A fully automated DevSecOps pipeline deploying a secure, scalable Hotstar-like streaming app on AWS EKS.",
+    link: "https://github.com/ervanstwan/hotstar-devsecops-eks",
+  },
 ];
 
 const sections = ["Experience", "Projects", "Skills", "Tools", "Education", "Portfolio"];
