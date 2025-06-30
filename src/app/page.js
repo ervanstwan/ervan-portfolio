@@ -215,8 +215,13 @@ const portfolios = [
   },
   {
     title: "Terraform End-to-End Infrastructure",
-    description: "Terraform End-to-End Infrastructure, This project provisions : VPC, Subnets, Route Tables, Internet Gateway, RDS (MySQL) Database, Remote state managed in S3 & DynamoDB",
+    description: "This project provisions : VPC, Subnets, Route Tables, Internet Gateway, RDS (MySQL) Database, Remote state managed in S3 & DynamoDB",
     link: "https://github.com/ervanstwan/Terraform-End-to-End-Infra",
+  },
+  {
+    title: "ci-cd-jenkins-ansible-k8s",
+    description: "CI/CD Pipeline with Jenkins, Ansible, Docker, Kubernetes",
+    link: "https://github.com/ervanstwan/ci-cd-jenkins-ansible-k8s",
   },
 ];
 
