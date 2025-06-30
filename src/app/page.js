@@ -213,6 +213,11 @@ const portfolios = [
     description: "A simple Tic-Tac-Toe game with a full GitLab CI/CD pipeline.",
     link: "https://github.com/ervanstwan/Tic-Tac-Toe",
   },
+  {
+    title: "erraform End-to-End Infrastructure",
+    description: "Terraform End-to-End Infrastructure, This project provisions : VPC, Subnets, Route Tables, Internet Gateway, RDS (MySQL) Database, Remote state managed in S3 & DynamoDB",
+    link: "https://github.com/ervanstwan/Terraform-End-to-End-Infra",
+  },
 ];
 
 const sections = ["Experience", "Projects", "Skills", "Tools", "Education", "Portfolio"];
