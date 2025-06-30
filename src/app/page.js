@@ -230,7 +230,7 @@ const portfolios = [
   },
   {
     title: "PCI-Compliant Node.js App on AWS: DevSecOps Infra",
-    description: ", This project provisions a secure, PCI-DSS aligned architecture on AWS with Node.js app",
+    description: "This project provisions a secure, PCI-DSS aligned architecture on AWS with Node.js app",
     link: "https://github.com/ervanstwan/pci-nodejs-terraform-ansible",
   },
 ];
