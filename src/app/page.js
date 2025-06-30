@@ -203,6 +203,16 @@ const portfolios = [
     description: "Full CI/CD Pipeline with Kubernetes, Helm & Argo CD",
     link: "https://github.com/ervanstwan/full-cicd-pipeline",
   },
+  {
+    title: "Rock-Paper-Scissors Game CI/CD Pipeline",
+    description: "A simple Rock-Paper-Scissors game with a GitLab CI/CD pipeline.",
+    link: "https://github.com/ervanstwan/Rock-Paper-Scissors",
+  },
+  {
+    title: "Tic-Tac-Toe Game CI/CD Pipeline",
+    description: "A simple Tic-Tac-Toe game with a full GitLab CI/CD pipeline.",
+    link: "https://github.com/ervanstwan/Tic-Tac-Toe",
+  },
 ];
 
 const sections = ["Experience", "Projects", "Skills", "Tools", "Education", "Portfolio"];
