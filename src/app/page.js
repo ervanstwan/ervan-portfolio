@@ -228,6 +228,11 @@ const portfolios = [
     description: "A fully automated DevSecOps pipeline deploying a secure, scalable Hotstar-like streaming app on AWS EKS.",
     link: "https://github.com/ervanstwan/hotstar-devsecops-eks",
   },
+  {
+    title: "PCI-Compliant Node.js App on AWS: DevSecOps Infra",
+    description: ", This project provisions a secure, PCI-DSS aligned architecture on AWS with Node.js app",
+    link: "https://github.com/ervanstwan/pci-nodejs-terraform-ansible",
+  },
 ];
 
 const sections = ["Experience", "Projects", "Skills", "Tools", "Education", "Portfolio"];
