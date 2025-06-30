@@ -174,52 +174,52 @@ const education = [
 
 const portfolios = [
   {
-    title: "Portfolio Website",
+    title: "🌐 Portfolio Website",
     description: "A personal web portfolio to showcase my experiences and projects.",
     link: "https://github.com/ervanstwan/ervan-portfolio",
   },
   {
-    title: "Monitoring Dashboard",
+    title: "📊 Monitoring Dashboard",
     description: "Built using Prometheus, Grafana, and custom exporters to monitor microservices.",
     link: "https://github.com/ervanstwan/monitoring-dashboard",
   },
   {
-    title: "Blue-Green Deployment",
+    title: "🔵🟢 🔄 Blue-Green Deployment",
     description: "Jenkins CI + ArgoCD GitOps on EKS with SonarQube, Trivy, OWASP checks, and self-healing blue-green rollout.",
     link: "https://github.com/ervanstwan/devops-pipeline",
   },
   {
-    title: "DevOps GitOps Pipeline",
+    title: "🚀 🔀 DevOps GitOps Pipeline",
     description: "GitOps CI/CD with ArgoCD, Terraform, Jenkins & Node.js",
     link: "https://github.com/ervanstwan/devops-gitops-pipeline",
   },
   {
-    title: "AWS EKS 3-Tier App Deployment",
+    title: "☸️ 🌩️ AWS EKS 3-Tier App Deployment",
     description: "A complete modern infrastructure-as-code project demonstrating how to deploy a containerized Node.js application on AWS",
     link: "https://github.com/ervanstwan/AWS-EKS-3-Tier-App-Deployment",
   },
   {
-    title: "Full CI/CD Pipeline",
+    title: "⚙️ 🛠️ Full CI/CD Pipeline",
     description: "Full CI/CD Pipeline with Kubernetes, Helm & Argo CD",
     link: "https://github.com/ervanstwan/full-cicd-pipeline",
   },
   {
-    title: "Rock-Paper-Scissors Game CI/CD Pipeline",
+    title: "✂️🪨📄 Rock-Paper-Scissors Game CI/CD Pipeline",
     description: "A simple Rock-Paper-Scissors game with a GitLab CI/CD pipeline.",
     link: "https://github.com/ervanstwan/Rock-Paper-Scissors",
   },
   {
-    title: "Tic-Tac-Toe Game CI/CD Pipeline",
+    title: "❌⭕ 🎯 Tic-Tac-Toe Game CI/CD Pipeline",
     description: "A simple Tic-Tac-Toe game with a full GitLab CI/CD pipeline.",
     link: "https://github.com/ervanstwan/Tic-Tac-Toe",
   },
   {
-    title: "Terraform End-to-End Infrastructure",
+    title: "🌍 🏗️ Terraform End-to-End Infrastructure",
     description: "This project provisions : VPC, Subnets, Route Tables, Internet Gateway, RDS (MySQL) Database, Remote state managed in S3 & DynamoDB",
     link: "https://github.com/ervanstwan/Terraform-End-to-End-Infra",
   },
   {
-    title: "Ci-cd-jenkins-ansible-k8s",
+    title: "🐙 ⚙️ ☸️Ci-cd-jenkins-ansible-k8s",
     description: "CI/CD Pipeline with Jenkins, Ansible, Docker, Kubernetes",
     link: "https://github.com/ervanstwan/ci-cd-jenkins-ansible-k8s",
   },
@@ -229,7 +229,7 @@ const portfolios = [
     link: "https://github.com/ervanstwan/hotstar-devsecops-eks",
   },
   {
-    title: "PCI-Compliant Node.js App on AWS: DevSecOps Infra",
+    title: "🔐 🏦 ☁️ PCI-Compliant Node.js App on AWS: DevSecOps Infra",
     description: "This project provisions a secure, PCI-DSS aligned architecture on AWS with Node.js app",
     link: "https://github.com/ervanstwan/pci-nodejs-terraform-ansible",
   },
