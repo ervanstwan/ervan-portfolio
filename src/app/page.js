@@ -198,6 +198,11 @@ const portfolios = [
     description: "A complete modern infrastructure-as-code project demonstrating how to deploy a containerized Node.js application on AWS",
     link: "https://github.com/ervanstwan/AWS-EKS-3-Tier-App-Deployment",
   },
+  {
+    title: "Full CI/CD Pipeline",
+    description: "Full CI/CD Pipeline with Kubernetes, Helm & Argo CD",
+    link: "https://github.com/ervanstwan/full-cicd-pipeline",
+  },
 ];
 
 const sections = ["Experience", "Projects", "Skills", "Tools", "Education", "Portfolio"];
