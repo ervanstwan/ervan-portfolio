@@ -155,6 +155,21 @@ const education = [
     degree: "D3 Computer Technic",
     year: "2009 - 2013",
   },
+  {
+    university: "SMA YADIKA 6",
+    degree: "High School (IPA)",
+    year: "2005 - 2008",
+  },
+  {
+    university: "SMP YADIKA 6",
+    degree: "Junior School",
+    year: "2002 - 2005",
+  },
+  {
+    university: "SDN 4 Ciputat",
+    degree: "Elementary School",
+    year: "1997 - 2002",
+  },
 ];
 
 const portfolios = [
