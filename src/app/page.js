@@ -178,6 +178,11 @@ const portfolios = [
     description: "GitOps CI/CD with ArgoCD, Terraform, Jenkins & Node.js",
     link: "https://github.com/ervanstwan/devops-gitops-pipeline",
   },
+  {
+    title: "AWS EKS 3-Tier App Deployment",
+    description: "A complete modern infrastructure-as-code project demonstrating how to deploy a containerized Node.js application on AWS",
+    link: "https://github.com/ervanstwan/AWS-EKS-3-Tier-App-Deployment",
+  },
 ];
 
 const sections = ["Experience", "Projects", "Skills", "Tools", "Education", "Portfolio"];
