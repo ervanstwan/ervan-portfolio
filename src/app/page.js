@@ -420,7 +420,7 @@ export default function Page() {
             IT Professional | Application Support L2 an L3 | DevOps | System Engineer | QA <span className="text-blue-200 italic">with over 9+ Years Experience</span>
           </p>
           <div className="flex flex-wrap gap-3 justify-center md:justify-start mt-4">
-            <a href="/CV-[ERVAN SETIAWAN].pdf" download className="flex items-center gap-2 px-4 py-2 bg-white text-black rounded shadow">
+            <a href="/CV ERVAN SETIAWAN.pdf" download className="flex items-center gap-2 px-4 py-2 bg-white text-black rounded shadow">
               <FaDownload /> Download CV
             </a>
             <a href="mailto:ervanstwan@gmail.com" className="flex items-center gap-2 px-4 py-2 bg-black text-white rounded">
